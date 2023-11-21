@@ -1,0 +1,14 @@
+{
+  "name": "practicas",
+  "version": "1.0.0",
+  "description": "Almacenamiento para las practicas de Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Dominguez Amador",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
